@@ -1,0 +1,53 @@
+@font-face { 
+    font-family: 'DMSans'; 
+    src: url('../fonts/DMSans/DMSans-Regular.eot') format('eot'),
+         url('../fonts/DMSans/DMSans-Regular.woff') format('woff'),
+         url('../fonts/DMSans/DMSans-Regular.ttf')  format('truetype');         
+    font-weight: normal; 
+    font-style: normal; 
+  }
+
+  @font-face { 
+    font-family: 'DMSans'; 
+    src: url('../fonts/DMSans/DMSans-Bold.eot') format('eot'),
+         url('../fonts/DMSans/DMSans-Bold.woff') format('woff'), 
+         url('../fonts/DMSans/DMSans-Bold.ttf')  format('truetype');         
+    font-weight: bold; 
+    font-style: normal; 
+  }
+
+  @font-face { 
+    font-family: 'DMSans'; 
+    src: url('../fonts/DMSans/DMSans-Medium.eot') format('eot'),
+         url('../fonts/DMSans/DMSans-Medium.woff') format('woff'),
+         url('../fonts/DMSans/DMSans-Medium.ttf')  format('truetype');     
+    font-weight: normal; 
+    font-style: normal; 
+  }
+
+  @font-face { 
+    font-family: 'Open Sans'; 
+    src: 
+         url('/fonts/OpenSans/OpenSans-Regular.woff') format('woff'),
+         url('/fonts/OpenSans/OpenSans-Regular.ttf')  format('truetype');         
+    font-weight: normal; 
+    font-style: normal; 
+  }
+
+  @font-face { 
+    font-family: 'Open Sans'; 
+    src: 
+         url('../fonts/OpenSans/OpenSans-Bold.woff') format('woff'), 
+         url('../fonts/OpenSans/OpenSans-Bold.ttf')  format('truetype');       
+    font-weight: bold; 
+    font-style: normal; 
+  }
+
+  @font-face { 
+    font-family: 'Open Sans'; 
+    src: 
+         url('../fonts/OpenSans/OpenSans-Medium.woff') format('woff'),
+         url('../fonts/OpenSans/OpenSans-Medium.ttf')  format('truetype');         
+    font-weight: normal; 
+    font-style: normal; 
+  }
